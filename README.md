@@ -1,7 +1,7 @@
-## ibm-backend-notes-and-labs
+# ibm-backend-notes-and-labs
 This repository contains my notes, practice files, and labs from my IBM Back-End Developer Certificate. 
 
-# It includes:
+### It includes:
 
 - Python basics and exercises
 - Linux command practice
